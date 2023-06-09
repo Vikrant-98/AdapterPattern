@@ -1,0 +1,15 @@
+D:\Popins\dev\Adapter\AdpaterPattern\AdpaterPattern\bin\Debug\net6.0\AdpaterPattern.exe
+D:\Popins\dev\Adapter\AdpaterPattern\AdpaterPattern\bin\Debug\net6.0\AdpaterPattern.deps.json
+D:\Popins\dev\Adapter\AdpaterPattern\AdpaterPattern\bin\Debug\net6.0\AdpaterPattern.runtimeconfig.json
+D:\Popins\dev\Adapter\AdpaterPattern\AdpaterPattern\bin\Debug\net6.0\AdpaterPattern.dll
+D:\Popins\dev\Adapter\AdpaterPattern\AdpaterPattern\bin\Debug\net6.0\AdpaterPattern.pdb
+D:\Popins\dev\Adapter\AdpaterPattern\AdpaterPattern\obj\Debug\net6.0\AdpaterPattern.csproj.AssemblyReference.cache
+D:\Popins\dev\Adapter\AdpaterPattern\AdpaterPattern\obj\Debug\net6.0\AdpaterPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Popins\dev\Adapter\AdpaterPattern\AdpaterPattern\obj\Debug\net6.0\AdpaterPattern.AssemblyInfoInputs.cache
+D:\Popins\dev\Adapter\AdpaterPattern\AdpaterPattern\obj\Debug\net6.0\AdpaterPattern.AssemblyInfo.cs
+D:\Popins\dev\Adapter\AdpaterPattern\AdpaterPattern\obj\Debug\net6.0\AdpaterPattern.csproj.CoreCompileInputs.cache
+D:\Popins\dev\Adapter\AdpaterPattern\AdpaterPattern\obj\Debug\net6.0\AdpaterPattern.dll
+D:\Popins\dev\Adapter\AdpaterPattern\AdpaterPattern\obj\Debug\net6.0\refint\AdpaterPattern.dll
+D:\Popins\dev\Adapter\AdpaterPattern\AdpaterPattern\obj\Debug\net6.0\AdpaterPattern.pdb
+D:\Popins\dev\Adapter\AdpaterPattern\AdpaterPattern\obj\Debug\net6.0\AdpaterPattern.genruntimeconfig.cache
+D:\Popins\dev\Adapter\AdpaterPattern\AdpaterPattern\obj\Debug\net6.0\ref\AdpaterPattern.dll
